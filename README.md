@@ -8,4 +8,4 @@ The prototype worked fine, but I will upload everything once the PCB is complete
 
 - Uses 2732 EPROM. In this case, 2 ROMs can be switched between pull up and pull down.<BR>
 - Uses 2716 EPROM. Connect the middle two of the 6p switch and use no parts other than the EPROM, inverter, and capacitor. In this case, it can be used for repairs as a substitute for ROM from D0 to F0.<BR>
-
+- Of course, when 2716 is installed on the Dead test switcher board, it is compatible with ROMs from ROM-D0 to ROM-F8.
