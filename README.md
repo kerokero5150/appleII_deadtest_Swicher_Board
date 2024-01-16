@@ -10,8 +10,8 @@ The prototype worked fine, but I will upload everything once the PCB is complete
 
 - Uses 2732 EPROM. In this case, 2 ROMs can be switched between pull up and pull down.<BR>
 - Uses 2716 EPROM. Connect the middle two of the 6p switch and use no parts other than the EPROM, inverter, and capacitor. In this case, it can be used for repairs as a substitute for ROM from D0 to F0.<BR>
-- Of course, when 2716 is installed on the Dead test switcher board, it is compatible with ROMs from ROM-D0 to ROM-F8.
-<img src="Pictures/IMG_8811.jpeg" width="520px"><BR><BR>
+- Of course, when 2716 is installed on the Dead test switcher board, it is compatible with ROMs from ROM-D0 to ROM-F8.<BR>
+<img src="Pictures/IMG_8811.jpeg" width="300px"><BR><BR>
 ## Schematics
 
 [Here](Dead_Test_Switcher_1.1a.pdf) is the schematic I drew
@@ -21,9 +21,11 @@ The prototype worked fine, but I will upload everything once the PCB is complete
 Coming soon!
 
 ## Licence
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Dead Test Switcher PCB is licensed under CC BY-NC-SA 4.0. Permitted for personal use, but not for sale.<BR>
 Dead Test ROM is licensed by [Adrian's Digital Basement](https://adriansbasement.com). Follow it under his control.<BR>
+<img src="Pictures/IMG_8808.jpeg" width="300px">
 
 
 
