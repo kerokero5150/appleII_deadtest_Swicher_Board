@@ -6,7 +6,7 @@ I was using another Diagnoctics card, but the other day when I was repairing my 
 
 <img src="Pictures/DTS11.gif" width="200px"><BR><BR>
 
-The prototype worked fine, but I will upload everything once the PCB is completed.<BR>
+The prototype worked fine, if you are in the process of trying to repair your Apple II, I highly recommend this as it allows you to see the logic in action. Adrian's Dead Test ROM doesn't work even after flashing to the 2716. Because Apple II uses 2316 and is not compatible unless one of the signals is inverted. For this reason, all we need is a minimum 1-in-1-out inverter, so this board using the NC7S04M5X. You can use 2716 instead of 2316 just by using this board! But that alone is not interesting, so I used 2732 and made it possible to switch between the normal auto start monitor and Dead test by switching. The recombined ROMs are [here](DeadTestSW_ROMS). 
 
 <img src="Pictures/IMG_9268.jpeg" width="300px"><BR><BR>
 <img src="Pictures/IMG_9269.jpeg" width="300px"><BR><BR>
