@@ -15,6 +15,17 @@ The prototype worked fine, if you are in the process of trying to repair your Ap
 - Uses 2716 EPROM. Connect the middle two of the 6p switch and use no parts other than the EPROM, inverter, and capacitor. In this case, it can be used for repairs as a substitute for ROM from D0 to F0.<BR>
 - Of course, when 2716 is installed on the Dead test switcher board, it is compatible with ROMs from ROM-D0 to ROM-F8.<BR>
 <img src="Pictures/IMG_8811.jpeg" width="300px"><BR><BR>
+
+## Usage
+Slide switch<BR>
+Right: Normal auto start screen<BR>
+Left: Start Dead Test<BR>
+
+### About dead test ROM results
+[Here](https://github.com/misterblack1/appleII_deadtest?tab=readme-ov-file#interpreting-the-result-display-grid)'s a table to help you with binary conversion to determine which RAM is bad. <BR> *Also, teaching binary conversion through chatting or something are difficult and troublesome. I think you can pass if it is beyond your understanding.
+
+
+
 ## Schematics
 
 [Here](Dead_Test_Switcher_1.1a.pdf) is the schematic I drew
