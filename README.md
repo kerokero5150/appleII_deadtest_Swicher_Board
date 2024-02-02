@@ -40,6 +40,7 @@ BOM is [here](DTS11.xlsx).<BR><BR>
 - R1: 1206 Resistor 10K ohms
 - R2: 1206 Resistor 470 ohms
 - C1: 1206 Capacitor 100nF
+- D1: 3mm LED *I'm using a blinking Red LED
 
 ## Licence
 
