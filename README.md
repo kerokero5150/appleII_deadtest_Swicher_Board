@@ -19,7 +19,7 @@ The prototype worked fine, but I will upload everything once the PCB is complete
 
 ## Gerber
 
-Coming soon!
+Please use the files in the [DTS_GERBER](DTS_GERBER) folder. We have confirmed that you can order directly from JLCPCB.
 
 ## Licence
 
