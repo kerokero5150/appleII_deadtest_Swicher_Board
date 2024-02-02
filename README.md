@@ -26,9 +26,9 @@ BOM is [here](DTS11.xlsx).<BR><BR>
 - U1: SOT23-5 [NC7S04M5X](https://www.digikey.jp/en/products/detail/onsemi/NC7S04M5X-L22090/16910805)
 - U2, U3: 24P Pin header and IC socket. Use what you like. U2's EPROM is 2732, but if you want to use 2716, it will be 2K, and switches and LEDs cannot be used. Connect the middle 2 pins of the switch.
 - SW1: DPDT Slide Switch 2.54p 6pin, can be replaced with 2.54mm pitch jumper pins.
-- R1: 1206 10K Resister
-- R2: 1206 470R Resister
-- C1: 1206 100nF Capacitor
+- R1: 1206 Resistor 10K ohms
+- R2: 1206 Resistor 470 ohms
+- C1: 1206 Capacitor 100nF
 
 ## Licence
 
