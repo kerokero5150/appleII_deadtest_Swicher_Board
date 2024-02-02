@@ -21,7 +21,8 @@ The prototype worked fine, if you are in the process of trying to repair your Ap
 
 ## Gerber
 
-Please use the files in the [DTS_GERBER](DTS_GERBER) folder. We have confirmed that you can order directly from JLCPCB.
+Please use the files in the [DTS_GERBER](DTS_GERBER) folder. We have confirmed that you can order directly from JLCPCB.<BR><BR>
+BOM is [here](DTS11.xlsx).
 
 ## Licence
 
