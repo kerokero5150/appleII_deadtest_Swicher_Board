@@ -18,7 +18,7 @@ The prototype worked fine, if you are in the process of trying to repair your Ap
 
 ## Usage
 Slide switch<BR>
-Right: Normal auto start screen<BR>
+Right: Normal Auto start monitor<BR>
 Left: Start Dead Test<BR>
 
 ### About dead test ROM results
