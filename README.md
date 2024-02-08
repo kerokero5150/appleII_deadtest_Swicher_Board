@@ -3,6 +3,7 @@
 <br>
 <img src="Pictures/IMG_8812.jpeg" width="520px"><BR><BR>
 I was using another Diagnoctics card, but the other day when I was repairing my Apple II Plus, I accidentally inserted it backwards. The card's microcontroller and ROM were fried...Then I found out about this project and tried it right away and it was really great!<BR><BR>I used a 2KB ROM with the Apple II Plus F8, but I redesigned the PCB so that I could switch between the autostart monitor ROM and the 4KB ROM.<BR><BR>
+By using this small board, you will be able to quickly see what needs to be fixed. If the RAM test does not complete, there is something wrong with the logic or the ROM. In my experience, most of them are logic ICs. For faulty logic ICs, it is convenient to use an IC tester such as the T48 ROM programmer.The next place to suspect poor contact is the IC socket. If you take these measurements about 3 times, you will be able to find the bad parts.Then use this Dead Test to identify bad RAM. Finally, the repair is completed by testing the ROM and keyboard with Apple's genuine diagnostic disks.
 
 <img src="Pictures/DTS11.gif" width="200px"><BR><BR>
 
